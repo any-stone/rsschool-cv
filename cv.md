@@ -16,11 +16,11 @@ Member of the Microsoft Women Into Tech community. Participant of the LMF Networ
 •	Adobe Photoshop, Illustrator, basics of Figma
 
 #### Education:
-Bachelor of Computer Science, University of the People — 2020-2024
-WebDesign: Basics of Web Development and Coding, University of Michigan — 2020 
-Google IT Support, Google — 2020
-Responsive Web Design, FreeCodeCamp — 2020
-Basics of programming, MailRu Group — 2020
+Bachelor of Computer Science, University of the People — 2020-2024.
+WebDesign: Basics of Web Development and Coding, University of Michigan — 2020.
+Google IT Support, Google — 2020.
+Responsive Web Design, FreeCodeCamp — 2020.
+Basics of programming, MailRu Group — 2020.
 
 #### Experience:
 *Altyn Bank - 2021-current*
