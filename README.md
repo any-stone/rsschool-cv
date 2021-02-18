@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/any-stone/rsschool-cv
+https://any-stone.github.io/rsschool-cv/
