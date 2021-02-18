@@ -1,0 +1,55 @@
+* {
+    background-color: #ffffff;
+}
+
+header {
+    margin-left: auto;
+    margin-right: auto;
+    width: 14em;
+}
+
+.cv-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 20%;
+    border-radius: 80%;
+}
+
+.contact {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
+.intro {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
+.edu {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
+.lang {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
+.skills {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
+.experience {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
